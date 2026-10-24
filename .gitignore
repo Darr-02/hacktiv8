@@ -1,0 +1,18 @@
+# Environment variables (API Keys rahasia)
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit Local Config & Cache
+.streamlit/
+
+# Riwayat Chat Lokal
+chat_history.json
+
+# Virtual Environment
+venv/
+env/
+.venv/

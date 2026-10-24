@@ -89,11 +89,6 @@ Aplikasi akan otomatis terbuka di browser pada alamat:
 
 ---
 
-
-```bash
-py botsaham.py
-```
-
 #### Perintah di Telegram:
 - `/start` : Menampilkan pesan sambutan dan panduan perintah.
 - `/cek BBCA.JK` : Menjalankan analisis teknikal saham lengkap dengan timestamp data.
